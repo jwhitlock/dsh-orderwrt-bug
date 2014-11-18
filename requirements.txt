@@ -3,6 +3,7 @@
 #
 
 Django==1.7.1
+git+git://github.com/jwhitlock/django-simple-history.git@e3ff030f49#egg=django-simple-history
 
 # Load database config from environment
 dj-database-url==0.3.0
